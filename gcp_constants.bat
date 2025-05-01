@@ -1,0 +1,14 @@
+GCP_USER=YOUR-GMAIL-ADDR@gmail.com
+GCP_SVC_ACT_PREFIX=svc-act-gcp-run-fastapi-mcp
+GCP_PYTHON_VERSION=3.12
+PYTHON_FILENAME=main.py
+GCP_PROJ_ID=gcp-run-fastapi-mcp-v0-0
+GCP_BILLING_ACCOUNT=XXXXXX-XXXXXX-XXXXXX
+GCP_REGION=us-east4
+GCP_IMAGE=img-gcp-run-fastapi-mcp
+GCP_REPOSITORY=repo-gcp-run-fastapi-mcp
+GCP_RUN_JOB=gcp-gcp-run-fastapi-mcp
+GCP_RUN_JOB_VOL_NAME=gcp-run-fastapi-mcp
+GCP_RUN_JOB_VOL_MT_PATH=/mnt/storage
+GCP_GS_BUCKET=gs-bucket-fastapi-mcp-v0-0
+GCP_GS_BUCKET_LOCATION=us
