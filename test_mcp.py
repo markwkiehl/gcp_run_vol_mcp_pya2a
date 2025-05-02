@@ -122,8 +122,7 @@ if __name__ == "__main__":
     pass
 
     # If use_localhost=False, then YOU MUST UPDATE WITH THE GOOGLE CLOUD RUN URL.  
-    cloud_run_url = "https://gcp-gcp-run-fastapi-mcp-qpjzrzuxnq-uk.a.run.app"
-    #cloud_run_url = "https://gcp-gcp-run-fastapi-mcp-EDITMEWITHYOURURL.a.run.app"
+    cloud_run_url = "https://gcp-gcp-run-fastapi-mcp-EDITMEWITHYOURURL.a.run.app"
 
     # Set use_localhost=True to run locally using localhost (127.0.0.1).
     # Set use_localhost=False to run in a Docker container locally, or as a Cloud Run Service. 
